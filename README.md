@@ -4,10 +4,8 @@
   <p><b>B.S. Student in Artificial Intelligence & Software Engineering</b></p>
 
   <p>
-    <a href="mailto:your-email@domain.com">Email</a> •
-    <a href="https://linkedin.com/in/your-profile">LinkedIn</a> •
-    <a href="https://your-blog-or-portfolio.com">Portfolio</a> •
-    <a href="https://github.com/your-github-id">GitHub</a>
+    <a href="mailto:ytmdcks5763@hanshin.ac.kr">Email</a> •
+    <a href="https://github.com/seungchan16">GitHub</a>
   </p>
 
 </div>
